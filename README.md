@@ -6,6 +6,15 @@ It uses the same ChatGPT backend endpoint as
 [`jordan-edai/codex-reset-watcher`](https://github.com/jordan-edai/codex-reset-watcher)
 and reads the bearer token from your local Codex auth file.
 
+## Disclaimer
+
+This project is unofficial and is not affiliated with, endorsed by, or supported
+by OpenAI.
+
+It uses an undocumented internal ChatGPT/Codex endpoint that may change or stop
+working without notice. Use of undocumented endpoints may be inconsistent with
+OpenAI's terms or policies. Use this tool at your own risk.
+
 ## Usage
 
 Run from the repository root:
